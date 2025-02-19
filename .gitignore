@@ -1,0 +1,8 @@
+node_modules
+dist
+out
+.vscode-test/
+*.vsix
+example.md
+coverage
+build
