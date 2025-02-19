@@ -3,7 +3,7 @@
   "name": "fusion-vscode",
   "displayName": "Fusion",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@10.2.0",
   "description": "Get PHP syntax highlighting in Vue files",
