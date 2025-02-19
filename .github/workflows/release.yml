@@ -10,7 +10,7 @@ on:
 
 jobs:
   release-vscode:
-    name: Release Utils Snippets extension
+    name: Release PHP in Vue  extension
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4

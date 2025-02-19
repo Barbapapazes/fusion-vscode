@@ -1,7 +1,7 @@
 {
   "publisher": "barbapapazes",
   "name": "fusion-vscode",
-  "displayName": "Fusion Syntax Highlighting",
+  "displayName": "PHP in Vue",
   "type": "module",
   "version": "0.0.2",
   "private": true,
