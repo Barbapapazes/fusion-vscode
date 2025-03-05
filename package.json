@@ -16,7 +16,7 @@
     "Programming Languages"
   ],
   "engines": {
-    "vscode": "^1.83.1"
+    "vscode": "^1.98.0"
   },
   "contributes": {
     "grammars": [
