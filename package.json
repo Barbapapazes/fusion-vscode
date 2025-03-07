@@ -36,9 +36,9 @@
     "release": "npm run lint && bumpp"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.1.1",
+    "@antfu/eslint-config": "^4.6.0",
     "@vscode/vsce": "^3.2.2",
     "bumpp": "^10.0.2",
-    "eslint": "9.5.0"
+    "eslint": "9.21.0"
   }
 }
